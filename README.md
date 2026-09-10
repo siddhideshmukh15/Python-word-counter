@@ -12,13 +12,13 @@ A simple Python project that counts the number of words, characters, spaces, cha
 
 ## Concepts Used
 
-* `input()`
-* `print()`
+* input()
+* print()
 * String methods
-* `split()`
-* `replace()`
-* `count()`
-* `len()`
+* split()
+* replace()
+* count()
+* len()
 
 ## Author
 
