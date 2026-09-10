@@ -22,4 +22,4 @@ A simple Python project that counts the number of words, characters, spaces, cha
 
 ## Author
 
-Siddhi Deshmukh
+**Siddhi Deshmukh**
